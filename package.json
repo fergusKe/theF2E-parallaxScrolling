@@ -1,6 +1,6 @@
 {
-  "name": "theF2E-canvasGame",
-  "homepage": "https://fergusKe.github.io/theF2E-canvasGame",
+  "name": "theF2E-parallaxScrolling",
+  "homepage": "https://fergusKe.github.io/theF2E-parallaxScrolling",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
